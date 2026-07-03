@@ -119,7 +119,7 @@ border-radius:5px;
 height:100vh;
 background:
 linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
-url("images/hero-banner.jpg") center/cover;
+url("hero-banner.jpg") center/cover;
 display:flex;
 justify-content:center;
 align-items:center;
